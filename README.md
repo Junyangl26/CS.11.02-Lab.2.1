@@ -78,3 +78,4 @@ roundNegativeValueToNearestInteger(-8.5) → -9
 roundNegativeValueToNearestInteger(-8.49) → -8	
 
 Call your roundNegativeValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. Use casting in your solution to achieve the desired output. 
+
